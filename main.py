@@ -6,7 +6,7 @@
 # Comment
 name = input("What's your name?: ")
 career_tech = input("What's your class?: ")
-# Comment
+# PROVENCHER: Remember to add spaces to string if necessary when using concatenation
 print("Hey "+name+" from "+career_tech)
 
 
