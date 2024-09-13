@@ -13,10 +13,10 @@ print("Hey "+name+" from "+career_tech)
 
 # Task 2
 # Comment
-age = "17"
+age = input("How old are you?: ")
 age_num = int(age)
 
-age_sentence = "The user is " + str(age_num) + "years old"
+age_sentence = "The user is " + str(age_num) + " years old"
 # Comment
 print(age_sentence)
 
@@ -27,17 +27,17 @@ print(age_sentence)
 # Comment
 family_members = int(input("How many people are in your family?: "))
 # Comment
-print(family_members + "people in your family")
+print("You have " + str(family_members) + " family members")
 
 
 
 
 # Task 4
 # Comment
-height = 
+height = int(input("Enter your height in inches: "))
+
 # Comment
-
-
+print(height)
 
 
 
