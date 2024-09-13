@@ -41,14 +41,3 @@ print(height)
 
 
 
-# Task 5
-# Comment
-# Comment
-
-
-
-
-
-# Part 5
-# Comment
-# Comment
